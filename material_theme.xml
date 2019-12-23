@@ -1,5 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="18" />
+    <option name="tabFontSize" value="14" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-11993ab5:16f2d3d8c73:-7ff7" />
+    <option name="version" value="4.5.1" />
   </component>
 </application>
