@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
@@ -25,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Mean-Stack
+A complete basic mean stack project learning for beginers.
+A beautiful front end using AngularJs and backend using nodeJs and express with database mongoDB
+>>>>>>> origin/master
