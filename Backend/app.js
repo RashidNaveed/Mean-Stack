@@ -9,7 +9,7 @@ app.use('/api/posts', (req, res , next) => {
     { id:'1',
       title:'First Post',
       content: 'This is dummy data from backend'},
-    { id:'1',
+    { id:'2',
       title:'Second Post',
       content: 'This is an other dummy data from backend'}
 
