@@ -15,7 +15,10 @@ app.use('/api/posts', (req, res , next) => {
 
   ];
 
-res.json();
+res.status(200).json({
+          message: 'Fetching Successful',
+          posts: posts
+});
 });
 
 module.exports = app ;
